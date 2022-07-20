@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @sugoruyo
+- 👀 I’m interested in distributed applications
+- 🌱 I’m currently learning how to build golang apps
